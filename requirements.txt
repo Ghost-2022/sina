@@ -29,7 +29,7 @@ matplotlib==3.4.3
 multidict==5.2.0
 numpy==1.21.3
 parsel==1.6.0
-Pillow==8.4.0
+Pillow==9.0.1
 priority==1.3.0
 Protego==0.1.16
 psutil==5.8.0
